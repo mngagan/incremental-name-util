@@ -1,4 +1,4 @@
-import incrementalName from '../index'
+import incrementalName from './index'
 // @ponicode
 describe("index", () => {
     test("1", () => {
